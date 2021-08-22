@@ -9,3 +9,5 @@ Or directly by launching the ruler.html file.
 Finally, add this 👉 event listener "onload="menu()"" to your html <body> or <html> tag
 
 Nb: It's most compatible with desktop browser.
+
+  HAVE FUN 😂 
