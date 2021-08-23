@@ -5,7 +5,7 @@ let's Check ☑ it out...
 
 <mark>Usage:</mark><br>
 i. You can use the application by adding the <i>~ruler.js</i> path to your html script tag,<br>
-Then, add this event listener point_right "onload="menu()"" to your html body tag.<br>
+Then, add this event listener 👉  "onload="menu()"" to your html body tag.<br>
 ii. Or directly by launching the <i>ruler.html</i> file. <br><br>
 Nb: It's most compatible with desktop browser.
 
